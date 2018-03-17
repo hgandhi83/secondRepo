@@ -1,0 +1,8 @@
+C:\Users\Harsh\source\repos\testAngular2\testAngular2\bin\testAngular2.dll.config
+C:\Users\Harsh\source\repos\testAngular2\testAngular2\bin\testAngular2.dll
+C:\Users\Harsh\source\repos\testAngular2\testAngular2\bin\testAngular2.pdb
+C:\Users\Harsh\source\repos\testAngular2\testAngular2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Harsh\source\repos\testAngular2\testAngular2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Harsh\source\repos\testAngular2\testAngular2\obj\Debug\testAngular2.csproj.CoreCompileInputs.cache
+C:\Users\Harsh\source\repos\testAngular2\testAngular2\obj\Debug\testAngular2.dll
+C:\Users\Harsh\source\repos\testAngular2\testAngular2\obj\Debug\testAngular2.pdb
